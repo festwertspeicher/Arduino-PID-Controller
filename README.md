@@ -15,16 +15,16 @@ This project is based on the [Adafruit Sous-Vide controller](https://github.com/
 ![Electronics](/photos/electronic.jpg)
 
 ## Todo
-- [] get higher resolution temperature readings
-- [] add socket for different sensor probes (e.g. PT1000) and sensor selection menu or auto deterction
-- [] add sensor calibration mode
-- [] add memory function to store and load the settings for different environment this controller is used in (P,I,D, direction, sensor, sensor calibration)
-- [] add Calibration Mode for temperature sensor
-- [] add Error message if autotune fails
-- [] normalize noisy temperature readings
-- [] make digits of setpoint and sensor reading beneath one another with trailing zeros
-- [] define special characters for the lcd as array
-- [] match speed of controll loop to frequency of main power, use optocoupler to detect zero crossing
+- [ ] get higher resolution temperature readings
+- [ ] add socket for different sensor probes (e.g. PT1000) and sensor selection menu or auto deterction
+- [ ] add sensor calibration mode
+- [ ] add memory function to store and load the settings for different environment this controller is used in (P,I,D, direction, sensor, sensor calibration)
+- [ ] add Calibration Mode for temperature sensor
+- [ ] add Error message if autotune fails
+- [ ] normalize noisy temperature readings
+- [ ] make digits of setpoint and sensor reading beneath one another with trailing zeros
+- [ ] define special characters for the lcd as array
+- [ ] match speed of controll loop to frequency of main power, use optocoupler to detect zero crossing
 
 
 ## Libraries
