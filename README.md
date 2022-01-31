@@ -1,5 +1,9 @@
-Sous-Viduino
+Arduino-PID-Controller
 ============
-Sous-vide powered by Arduino - The SousViduino!
+This project is based on the Adafruit Sous-Vide controller by Bill Earl, but with the following changes:
 
-This is the code from Bill Earl for the Adafruit Sous-vide tutorial using an Arduino. Check it out at http://learn.adafruit.com/sous-vide-powered-by-arduino-the-sous-viduino
+* Cheap 1602 LCD Panel instead of the Adafruit RGB LCD Shield
+* Encoder with push button instead of a keypad
+* Robust Hardware Design (not in this Repo)
+* Navigation Menu
+* and other minor changes
